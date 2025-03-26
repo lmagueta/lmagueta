@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://natashalisboa.com">website</a> •
+    <a href="https://lmagueta.com">website</a> •
     <a href="https://www.linkedin.com/in/lmagueta/">linkedin</a>  •
     <a href="https://dev.to/lmagueta">dev.to</a> •
     <a href="https://lmagueta.medium.com/">medium</a> •
